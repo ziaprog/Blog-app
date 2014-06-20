@@ -1,0 +1,13 @@
+﻿.pgr {  }
+.pgr table { margin: 20px 0; }
+.pgr td  
+{
+    
+    border-width: 0; 
+    padding: 0 6px; 
+   
+    font-weight: bold; 
+    color: red; 
+    line-height: 12px; }
+.pgr a { color:#48b43a; display: block; padding:6px; border:solid 1px #ccc;text-decoration: none; }
+.pgr a:hover { color: #fff; background:#48b43a; text-decoration: none; }

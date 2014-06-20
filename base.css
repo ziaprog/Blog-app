@@ -1,0 +1,86 @@
+html,body{margin:0;padding:0}
+a {
+   outline: 0;
+}
+body{font: 80% arial,sans-serif}
+p{margin:0 10px 10px}
+a{display:block;color:blue;}
+div#header {height:80px;line-height:80px;margin:0;
+  padding-left:10px;color: #79B30B}
+  #content{min-width:400px;}
+div#content p{line-height:1.4}
+div#footer{background: #333;color: #FFF}
+div#footer p{margin:0;padding:5px 10px}
+
+div#wrapper{float:left;width:100%;margin-bottom:100px;}
+div#content{margin: 0 220px;padding:10px;}
+div#navigation{float: left;
+                 background-color:#fbe2e6;
+	width: 200px;	
+	border:solid 1px #999;
+	margin: 25px 10px;
+}
+#aside{float: right;
+       background-color:#90e8b8;
+	width: 200px;	
+	border:solid 1px #999;
+	margin: 25px 10px;}
+
+div#footer{clear:left; width:100%;}
+.handle
+{
+width:16px;
+height:16px;
+background-image:url(images/HandleGrip.png);
+overflow:hidden;
+cursor:se-resize;
+}
+
+pre
+{
+
+border-right: outset thin;
+
+	border-top: groove thin;
+
+	overflow-x: auto;
+
+	border-left: groove thin;
+
+	width: auto;
+
+	border-bottom: outset thin;
+
+	padding: 10px;
+
+	margin: 0;
+
+	background: white;
+
+	font-family: consolas, "Courier New" , Courier, monospace;
+	
+	font-size:14px;
+	
+	min-height: 40px;
+
+	min-width:100px;
+}
+
+tt,code
+{
+   font-family: consolas, "Courier New" , Courier, monospace;
+	
+	font-size:14px;
+}
+
+h1
+{
+    padding-bottom:10px;
+  border-bottom:dashed 2px #ebebeb;
+}
+
+#top-nav
+{
+    height:30px;
+    background-color:#ebebeb;
+}
